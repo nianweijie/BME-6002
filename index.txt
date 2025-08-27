@@ -1,0 +1,2 @@
+egg: $14;
+chicken: $3
